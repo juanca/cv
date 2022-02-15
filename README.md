@@ -5,11 +5,10 @@ San Francisco, CA. https://github.com/juanca https://www.linkedin.com/in/medinaj
 ## Overview
 
 I am a graduate of Claremont McKenna College where I obtained a degree in Economics. 
-In the process, I started an Engineering curriculum and finished with a strong Computer Science sequence (minor). 
-After studying economics, business, and the sciences, these major influences nurtured my goals into entrepreneurship.
+In the process, I started an Engineering curriculum and finished with a strong Computer Science sequence (minor).
 I have 9 years of full-time engineering experience with company sizes ranging from 10 to 500 employees. 
 
-### Profressional Technical Skills
+### Professional Technical Skills
 
 * Programming Languages:
     Ruby,
@@ -58,7 +57,7 @@ technical hats beyond their comfort zones, such as regular rotations as producti
 engineers. As a full stack engineer, I have been responsible for architecting and iterating on a wide variety of
 facets to the application, as well as guiding teams through technical problems.
 
-#### *Software Archtect*, February 2016 to present.
+#### *Software Architect*, February 2016 to present.
 
 - Responsible for introducing new frontend systems, adapting old and new systems through seamless transitions, with an emphasis on security, performance, and maintainability
 - Team lead of a 5-person team focused on developer tooling, frontend systems, and testing infrastructure
@@ -74,12 +73,12 @@ facets to the application, as well as guiding teams through technical problems.
 #### *Software Engineer*, June 2013 to February 2016.
 
 - Worked across a variety of roles: frontend, backend, support, and (a little) devops
-- Collaborated with designers and other engineers on a HTML-based styleguide
+- Collaborated with designers and other engineers on an HTML-based styleguide
 - Developed many full-stack features for a Ruby on Rails application
     
 #### *Engineering Intern*, June 2012 to August 2012.
 
-* Designed and implemented new features for Mavenlink's desktop and mobile websites
+* Designed and implemented new features for desktop and mobile websites
 * Participated in pair programming with software engineers
 * Collaborated in the implementation of a web analytics system
 
@@ -127,5 +126,5 @@ facets to the application, as well as guiding teams through technical problems.
 
 
 ### Awards
-*Gates Millennium Scholarship Award* - Gates Millennium Scholars Progrem, September 2008 to present.
+*Gates Millennium Scholarship Award* - Gates Millennium Scholars Program, September 2008 to present.
 *Statistics Prize for the Academic Year* - Claremont McKenna College Statistics Competition, September 2009 to May 2010.
