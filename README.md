@@ -1,6 +1,6 @@
 # Juan Carlos Medina
 
-San Francisco, CA. https://github.com/juanca
+San Francisco, CA. https://github.com/juanca https://www.linkedin.com/in/medinajuan/
 
 ## Overview
 
@@ -60,7 +60,7 @@ facets to the application, as well as guiding teams through technical problems.
 
 #### *Software Archtect*, February 2016 to present.
 
-- Developer advocate for adopting newer technology and proposing long-term migration plans to the wider team
+- Responsible for introducing new frontend systems, adapting old and new systems through seamless transitions, with an emphasis on security, performance, and maintainability
 - Team lead of a 5-person team focused on developer tooling, frontend systems, and testing infrastructure
 - Collaborated on a React-based design system
 - Designed and collaborated on a no-code solution for highly customizable user interfaces 
