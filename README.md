@@ -1,6 +1,6 @@
 # Juan Carlos Medina
 
-San Francisco, CA. https://github.com/juanca https://www.linkedin.com/in/medinajuan/
+San Francisco, CA. [Github](https://github.com/juanca) | [LinkedIn](https://www.linkedin.com/in/medinajuan/) | [Codewars](https://www.codewars.com/users/juanca)
 
 ## Overview
 
