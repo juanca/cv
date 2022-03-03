@@ -6,7 +6,7 @@ San Francisco, CA. https://github.com/juanca https://www.linkedin.com/in/medinaj
 
 I am a graduate of Claremont McKenna College where I obtained a degree in Economics. 
 In the process, I started an Engineering curriculum and finished with a strong Computer Science sequence (minor).
-I have 9 years of full-time engineering experience with company sizes ranging from 10 to 500 employees. 
+I have 9 years of full-time engineering experience with company sizes ranging from 10 to 300 employees. 
 
 ### Professional Technical Skills
 
