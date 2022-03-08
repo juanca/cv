@@ -53,41 +53,46 @@ I have 9 years of full-time engineering experience with company sizes ranging fr
 
 ### Mavenlink, San Francisco CA
 Mavenlink is a test-focused development pair programming shop where engineers have the opportunity to improve their
-technical hats beyond their comfort zones, such as regular rotations as production support engineers and devops
-engineers. As a full stack engineer, I have been responsible for architecting and iterating on a wide variety of
-facets to the application, as well as guiding teams through technical problems.
+technical hats beyond their comfort zones, such as regular rotations as team leads and devops
+engineers. While developing my career at Mavenlink, I have been responsible for: 
+mentoring engineers; 
+leading technical and user-facing projects; 
+setting clear and challenging goals for a portfolio of work;
+and, understanding business objects and incorporating these into small and large tasks.
 
 #### *Software Architect*, February 2016 to present.
 
 - Responsible for introducing new frontend systems, adapting old and new systems through seamless transitions, with an emphasis on security, performance, and maintainability
-- Team lead of a 5-person team focused on developer tooling, frontend systems, and testing infrastructure
-- Collaborated on a React-based design system
-- Designed and collaborated on a no-code solution for highly customizable user interfaces 
+- Lead a small team focused on large refactors, developer tooling, system upgrades, and testing infrastructure
+- Collaborated on a React-based design system with in-depth documentation, structured code, and cross-team goals
+- Designed, collaborated, and led a team on a no-code solution for user-defined user interfaces
+- Actively adjust to shifting priorities when necessary, provide estimates to leadership, and communicate changes to peers
 
 #### *Senior Software Engineer*, February 2016 to February 2019.
 
-- Deep dived into scalable frontend infrastructure: Webpack bundling and React ecosystems
-- Developed highly reusable frontend code with MarionetteJS and BackboneJS 
-- Optimized Ruby on Rails application with a strong emphasis on SQL indexing and built-in active record caching
+- Defined and executed on a plan for highly reusable frontend code with MarionetteJS and BackboneJS
+- Strived to reduce technical debt and implement scalable frontend infrastructure
+- Optimized a Rails application with a strong emphasis on SQL indexing and built-in active record caching
+- Scoped large tasks into smaller, actionable parts while communicating changes to stakeholders
 
 #### *Software Engineer*, June 2013 to February 2016.
 
-- Worked across a variety of roles: frontend, backend, support, and (a little) devops
-- Collaborated with designers and other engineers on an HTML-based styleguide
-- Developed many full-stack features for a Ruby on Rails application
+- Worked to learn relevant technologies and systems in place: frontend, backend, support, and devops
+- Collaborated in cross department efforts on an CSS-based UI patterns and style guide
+- Efficiently delivered many full-stack features for a Ruby on Rails application
+- Actively support the work of peers by pair programming, reviewing and providing mentoring
     
 #### *Engineering Intern*, June 2012 to August 2012.
 
-* Designed and implemented new features for desktop and mobile websites
-* Participated in pair programming with software engineers
-* Collaborated in the implementation of a web analytics system
+* Participated in pair programming with software engineers of various levels (junior, senior, and architects)
+* Delivered clearly-defined features for desktop and mobile Rails applications
+* Collaborated on a new web analytics system in Ruby on Rails
 
 ### Mavenlink, Claremont CA
 #### *Team Member*, October 2011 to May 2012.
 
-* Collaborated in prototyping a referral network
+* Collaborated in prototyping a referral network in a Ruby on Rails project
 * Implemented cluster algorithms with a proprietary hybrid trust model
-* Prototype stack: Ruby on Rails, HTML, Javascript, and MySQL, Redis
 
 ### Lowe Institute of Political Economy, Claremont McKenna College
 #### *Research and Programmer Analyst*, November 2012 to December 2012.
