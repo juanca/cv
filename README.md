@@ -60,7 +60,7 @@ leading technical and user-facing projects;
 setting clear and challenging goals for a portfolio of work;
 and, understanding business objects and incorporating these into small and large tasks.
 
-#### *Software Architect*, February 2016 to present.
+#### *Software Architect*, February 2019 to present.
 
 - Responsible for introducing new frontend systems, adapting old and new systems through seamless transitions, with an emphasis on security, performance, and maintainability
 - Lead a small team focused on large refactors, developer tooling, system upgrades, and testing infrastructure
