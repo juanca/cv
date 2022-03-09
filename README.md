@@ -34,8 +34,11 @@ I have 9 years of full-time engineering experience with company sizes ranging fr
 
 ### Open Source Contributions
 
-I actively look for opportunities to provide back to the open source communities.
-I enjoy filing well-documented issues, fixing bugs, and implementing new features and tests to existing ecosystems.
+I actively look for opportunities and enjoy providing back to open source communities:
+filing well-documented issues; 
+fixing bugs; 
+writing tests;
+and, implementing new features to existing ecosystems.
 
 * *juanca/react-aria-components*: React components with an emphasis on reusability, composition, and accessibility
 * *testing-library/user-event*: Testing library that provides more advanced simulation of browser interactions
