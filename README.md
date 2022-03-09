@@ -4,7 +4,7 @@ San Francisco, CA. | [Github](https://github.com/juanca) | [LinkedIn](https://ww
 
 ## Overview
 
-I am a graduate of Claremont McKenna College where I obtained a degree in Economics. 
+I am a graduate of Claremont McKenna College where I obtained a BA degree in Economics. 
 In the process, I started an Engineering curriculum and finished with a strong Computer Science sequence (minor).
 I have 9 years of full-time engineering experience with company sizes ranging from 10 to 300 employees. 
 
@@ -58,29 +58,29 @@ engineers. While developing my career at Mavenlink, I have been responsible for:
 mentoring engineers; 
 leading technical and user-facing projects; 
 setting clear and challenging goals for a portfolio of work;
-and, understanding business objects and incorporating these into small and large tasks.
+and, understanding business objectives and incorporating these into small and large tasks.
 
 #### *Software Architect*, February 2019 to present.
 
-- Responsible for introducing new frontend systems, adapting old and new systems through seamless transitions, with an emphasis on security, performance, and maintainability
-- Lead a small team focused on large refactors, developer tooling, system upgrades, and testing infrastructure
+- Introduced new frontend systems, adapting old and new systems through seamless transitions, with an emphasis on security, performance, and maintainability
+- Led a small team focused on large refactors, developer tooling, system upgrades, and testing infrastructure
 - Collaborated on a React-based design system with in-depth documentation, structured code, and cross-team goals
 - Designed, collaborated, and led a team on a no-code solution for user-defined user interfaces
-- Actively adjust to shifting priorities when necessary, provide estimates to leadership, and communicate changes to peers
+- Actively adjusted to shifting priorities when necessary, provided estimates to leadership, and communicated changes to peers
 
 #### *Senior Software Engineer*, February 2016 to February 2019.
 
 - Defined and executed on a plan for highly reusable frontend code with MarionetteJS and BackboneJS
-- Strived to reduce technical debt and implement scalable frontend infrastructure
+- Strove to reduce technical debt and implement scalable frontend infrastructure
 - Optimized a Rails application with a strong emphasis on SQL indexing and built-in active record caching
 - Scoped large tasks into smaller, actionable parts while communicating changes to stakeholders
 
 #### *Software Engineer*, June 2013 to February 2016.
 
-- Worked to learn relevant technologies and systems in place: frontend, backend, support, and devops
+- Learned relevant technologies and systems in place: frontend, backend, support, and devops
 - Collaborated in cross department efforts on an CSS-based UI patterns and style guide
 - Efficiently delivered many full-stack features for a Ruby on Rails application
-- Actively support the work of peers by pair programming, reviewing and providing mentoring
+- Actively supported the work of peers by pair programming, reviewing and providing mentoring
     
 #### *Engineering Intern*, June 2012 to August 2012.
 
