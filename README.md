@@ -30,26 +30,17 @@ I have 9 years of full-time engineering experience with company sizes ranging fr
     English, 
     Spanish
 
-### Academic Technical Skills
-
-* Programming Languages:
-    C/C++,
-    MATLAB,
-    Haskell,
-    SystemVerilog,
-    Labview,
-    Racket,
-    Prolog,
-    LateX
-* Software:
-    STATA,
-    SolidWorks,
-    ModelSim,
-    Quartus 2,
-* Version Control Systems:
-    Subversion
-
 ## Industry Experience
+
+### Open Source Contributions
+
+I actively look for opportunities to provide back to the open source communities.
+I enjoy filing well-documented issues, fixing bugs, and implementing new features and tests to existing ecosystems.
+
+* *juanca/react-aria-components*: React components with an emphasis on reusability, composition, and accessibility
+* *testing-library/user-event*: Testing library that provides more advanced simulation of browser interactions
+* *juanca/stylelint-css-modules*: A set of rules to enforce CSS modules architecture
+* *juanca/stylelint-css-import*: A set of rules to enforce validity of imported resources
 
 ### Mavenlink, San Francisco CA
 Mavenlink is a test-focused development pair programming shop where engineers have the opportunity to improve their
@@ -107,11 +98,30 @@ and, understanding business objectives and incorporating these into small and la
 * Conducted coaching sessions in MATLAB, STATA, and Java
 
 # Academics
+
 *Bachelor of Arts in Economics* from Claremont McKenna College. Sequence (minor) in Computer Science. Graduated in May 2013.  
 *Junior Scholars Program* at the University of Texas at El Paso. September 2007 to May 2008.  
 *Early Admissions Program* at the El Paso Community College. September 2006 to May 2008.  
 *Distinguished Diploma* from Cathedral High School. El Paso, Texas. Graduated in May 2008.
 
+### Academic Technical Skills
+
+* Programming Languages:
+  C/C++,
+  MATLAB,
+  Haskell,
+  SystemVerilog,
+  Labview,
+  Racket,
+  Prolog,
+  LateX
+* Software:
+  STATA,
+  SolidWorks,
+  ModelSim,
+  Quartus 2,
+* Version Control Systems:
+  Subversion
 
 ## Activities
 
